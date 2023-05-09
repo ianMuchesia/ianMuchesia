@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ian Msodoki</h1>
+<h1 align="center">Hi 👋, I'm Ian Muchesia</h1>
 <h3 align="center">A passionate developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5ICSAGVKDzl_GddzOvamEzf2m_B6f66VYA&usqp=CAU">
 - 🌱 I’m currently learning **Python and Excel**
