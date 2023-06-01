@@ -4,7 +4,7 @@
 
 I'm Ian Muchesia from Kenya. I like to code in Javascript and messing around with Linux sometimes. Am learning PHP and SQL and please do check out my repositories to get a look on the project I'll be building. On the lookout to meet new people, collaborate and build amazing things.
 
-Skills: REACT / JS / HTML / CSS/NODE JS
+
 
 - 🌱 I’m currently learning Linux Apache MySQL PHP 
 - 👯 I’m looking to collaborate on LAMP STACK 
