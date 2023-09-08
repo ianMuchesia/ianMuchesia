@@ -2,7 +2,7 @@
 #### I am a Software Developer
 ![I am a Software Developer](https://media.licdn.com/dms/image/D4E16AQHdYyg3gNtbiA/profile-displaybackgroundimage-shrink_350_1400/0/1685605656408?e=1691020800&v=beta&t=FG1Mjam7JdlG1xJnxwzOsmL9YrXfT7p_7xex7tPynKc)
 
-I'm Ian Muchesia from Kenya. I like to code in Javascript and messing around with Linux sometimes. Am learning PHP and SQL and please do check out my repositories to get a look on the project I'll be building. On the lookout to meet new people, collaborate and build amazing things.
+I'm Ian Muchesia from Kenya. I like to code in Javascript and messing around with Linux sometimes. Am learning C and SQL and please do check out my repositories to get a look on the project I'll be building. On the lookout to meet new people, collaborate and build amazing things.
 
 
 
