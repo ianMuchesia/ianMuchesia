@@ -6,8 +6,8 @@ I'm Ian Muchesia from Kenya. I like to code in Javascript and messing around wit
 
 
 
-- 🌱 I’m currently learning Linux Apache MySQL PHP 
-- 👯 I’m looking to collaborate on LAMP STACK 
+- 🌱 I’m currently learning Linux SQL Node Js and C 
+- 👯 I’m looking to collaborate on React,SQL and Node Js 
 - 📫 How to reach me: ianmuchesia@yahoo.com 
 
 
