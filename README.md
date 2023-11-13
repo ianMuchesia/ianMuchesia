@@ -1,3 +1,7 @@
+![Msodoki's GitHub Banner](
+https://media.licdn.com/dms/image/D4E16AQHdYyg3gNtbiA/profile-displaybackgroundimage-shrink_350_1400/0/1685605657779?e=1705536000&v=beta&t=AD0OJc_QzSvyhuk8hCywA_RGsT2Lsl0m6xL-u--KNsY)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Repair Me<br>👯 I’m looking to collaborate on React and Node js<br><br>🌱 I’m currently learning C , Linux and SQL<br>💬 Ask me about Typescript<br>
 
