@@ -3,7 +3,7 @@ https://media.licdn.com/dms/image/D4E16AQHdYyg3gNtbiA/profile-displaybackgroundi
 
 
 # 💫 About Me:
-🔭 I’m currently working on Repair Me<br>👯 I’m looking to collaborate on React and Node js<br><br>🌱 I’m currently learning C , Linux and SQL<br>💬 Ask me about Typescript<br>
+🔭 I’m currently working on Repair Me<br>👯 I’m looking to collaborate on React and Node js and FastAPI<br><br>🌱 I’m currently learning C , Linux and SQL<br>💬 Ask me about Typescript<br>
 
 
 ## 🌐 Socials:
