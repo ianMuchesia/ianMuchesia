@@ -1,5 +1,5 @@
 ![Msodoki's GitHub Banner](
-https://media.licdn.com/dms/image/D4E16AQHdYyg3gNtbiA/profile-displaybackgroundimage-shrink_350_1400/0/1685605657779?e=1705536000&v=beta&t=AD0OJc_QzSvyhuk8hCywA_RGsT2Lsl0m6xL-u--KNsY)
+[(https://res.cloudinary.com/dx1lyzcdb/image/upload/v1705555593/Black_Minimalist_Content_Creator_LinkedIn_Banner_ahehfr.png)])
 
 
 # 💫 About Me:
