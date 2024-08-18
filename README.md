@@ -1,7 +1,7 @@
 ![Msodoki's GitHub Banner](https://res.cloudinary.com/dx1lyzcdb/image/upload/v1705555593/Black_Minimalist_Content_Creator_LinkedIn_Banner_ahehfr.png)
 
 # 💫 About Me:
-🔭 I’m currently working on Shop Ease<br>👯 I’m looking to collaborate on FastAPI and Node Js<br>🌱 I’m currently learning Microsoft Azure<br>💬 Ask me about Typescript, Python and PostgreSQL<br>
+🔭 I’m currently working on Shop Ease<br>👯 I’m looking to collaborate on .NET and Node Js<br>🌱 I’m currently learning Microsoft Azure<br>💬 Ask me about Linux, Python and Azure<br>
 
 
 ## 🌐 Socials:
